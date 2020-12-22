@@ -26,3 +26,17 @@ There's many different Modules to the Offline Website. This page is the welcome 
 
 [Rua Documentations](rualuadocs.html) -- The Reeve API P5
 
+[The ReeveScript Classics/Commands](commands.html)
+
+# Why Use Reeve? (Derived from Reeve.html)
+
+The Reeve Language Compiles code. Except it is not a compiler, By compile it means that it takes C++ Functions and bundles them up to make it easier.
+
+
+
+# In-Depth Look at Reeve's API
+
+The Reeve API Contains Several Functions Used in Basic Logic, Such as creation of files, Or console logging.
+
+The RAPI Uses Several Different libraries. If you're seeing this message, Head to [This Link](commands.html) To see How all of the different Libraries work together to form a Good library.
+
